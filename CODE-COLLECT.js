@@ -10,7 +10,7 @@ const filesToCollect = [
 
 ];
 
-const outputFilePath = 'fileCodeReactV17.txt';
+const outputFilePath = 'YourOutputFileName.txt';
 
 function collectCodeFromFiles(fileList) {
   let collectedCode = '';

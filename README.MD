@@ -1,3 +1,9 @@
+Features
+- Collect contents from multiple source files
+- Combine files into a single output file
+- Simple error handling for missing files
+- Configurable file paths
+
 THIS IS VERY EASY YOU JUST
 
 DROP YOUR PATH INTO "filesToCollect"
