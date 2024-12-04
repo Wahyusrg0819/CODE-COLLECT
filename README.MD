@@ -1,4 +1,4 @@
-Features
+FEATURES
 - Collect contents from multiple source files
 - Combine files into a single output file
 - Simple error handling for missing files
