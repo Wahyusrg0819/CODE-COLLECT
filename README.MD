@@ -25,7 +25,7 @@ DROP YOUR PATH INTO "filesToCollect"
 - There is no limit to how many paths you can add.
 - This only works for coding files or files that contain any text within them, such as .txt, .csv, .xml, .json, .html, .md, .ini, .py, .java, .cpp, .js, .php, .css, .rb.
 
-AND RUN IT IN YOUR TERMINAL WITH THIS COMMAND = NODE CODE-COLLECT.js
+AND RUN IT IN YOUR TERMINAL WITH THIS COMMAND = Multi-File Code Collector.js
 
 
 
